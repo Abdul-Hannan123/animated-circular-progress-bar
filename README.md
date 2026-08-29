@@ -42,5 +42,39 @@ When the page loads:
 
 For example, if the target value is **52%**, the animation will smoothly move:
 
-```text
-0% → 1% → 2% → 3% → ... → 52%
+---
+
+## 🎯 What I Learned
+
+- DOM Manipulation
+- JavaScript Variables
+- Functions
+- setInterval() / Timing Functions
+- CSS Transforms
+- CSS Borders
+- Circular Progress Design
+- Dynamic Percentage Updates
+- CSS Animations
+- JavaScript Event Handling
+
+---
+
+## 🔮 Future Improvements
+
+- 🎯 Allow users to enter their own percentage
+- 🎨 Add multiple progress bars
+- 🌈 Add customizable colors
+- ⚡ Add different animation speeds
+- 🔄 Add a reset button
+- 📱 Improve mobile responsiveness
+- 📊 Create multiple progress indicators
+
+  
+## 👨‍💻 Author
+Abdul Hannan
+
+Computer Science Student | Front-End Developer | Aspiring MERN Stack Developer
+
+Currently learning React.js and working toward becoming a MERN Stack Developer.
+
+⭐ If you like this project, consider giving it a star!
